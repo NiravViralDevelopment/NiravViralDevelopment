@@ -5,6 +5,7 @@
 - I am a technology enthusiasts.
 - I like learning PHP frameworks and Python.
 - Contact me at viralode95745@gmail.com.
+- Telegram : https://t.me/Viralode
 -  I'm open to collaborating on interesting projects.
 
 # 💻 Tech Stack:
